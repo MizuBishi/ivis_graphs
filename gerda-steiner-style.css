@@ -35,7 +35,7 @@ edge[interaction = "cc"] {
     width: 4;
 }
 
-node[NodeType = "Cheese"],
+node[NodeType = "Werk"],
 node[NodeType = "CheeseType"] {
     background-color: #FACD37;
     text-outline-color: #FACD37;
@@ -43,7 +43,7 @@ node[NodeType = "CheeseType"] {
     height: mapData(Quality, 70, 100, 20, 50);
 }
 
-node[NodeType = "WhiteWine"] {
+node[NodeType = "Ausstellung"] {
     background-color: white;
     text-outline-color: white;
 }
@@ -52,18 +52,13 @@ edge[interaction = "cw"] {
     line-color: white;
 }
 
-node[NodeType = "RedWine"] {
+node[NodeType = "Literatur"] {
     background-color: #DE3128;
     text-outline-color: #DE3128;
 }
 
 edge[interaction = "cr"] {
     line-color: #DE3128;
-}
-
-node[NodeType = "Cider"] {
-    background-color: #A4EB34;
-    text-outline-color: #A4EB34;
 }
 
 node.highlighted {
