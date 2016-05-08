@@ -12,52 +12,30 @@
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "401",
-        "Strength" : 5,
+        "id" : "1",
         "selected" : false,
-        "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
-        "canonicalName" : "Aarauer Bierdeckel",
-        "Milk" : "Raw cow's milk",
-        "Synonym" : "Kuentener",
-        "Quality" : 90,
-        "Type" : "Semi-soft",
-        "SUID" : 430,
-        "NodeType" : "Cheese",
-        "name" : "Aarauer Bierdeckel",
-        "Country" : "Switzerland",
-        "shared_name" : "Aarauer Bierdeckel"
+        "cytoscape_alias_list" : [ "Johnny Rocket" ],
+        "canonicalName" : "Johnny Rocket",
+        "SUID" : 1,
+        "NodeType" : "Werk",
+        "name" : "Johnny Rocket",
+        "shared_name" : "Johnny Rocket"
       },
       "position" : {
-        "x" : 4491.9853515625,
-        "y" : 4520.1904296875
+        "x" : 1391.1080322265625,
+        "y" : 4324.1015625
       },
       "selected" : false
     },{
       "data" : {
-        "id" : "402",
+        "id" : "2",
         "selected" : false,
-        "cytoscape_alias_list" : [ "Fiumorbu" ],
-        "canonicalName" : "Fiumorbu",
-        "SUID" : 427,
-        "NodeType" : "Cheese",
-        "name" : "Fiumorbu",
-        "shared_name" : "Fiumorbu"
-      },
-      "position" : {
-        "x" : 4576.6962890625,
-        "y" : 4617.2265625
-      },
-      "selected" : false
-    }, {
-      "data" : {
-        "id" : "403",
-        "selected" : false,
-        "cytoscape_alias_list" : [ "Beaujolais" ],
-        "canonicalName" : "Beaujolais",
-        "SUID" : 426,
-        "NodeType" : "RedWine",
-        "name" : "Beaujolais",
-        "shared_name" : "Beaujolais"
+        "cytoscape_alias_list" : [ "Kristallgewächs" ],
+        "canonicalName" : "Kristallgewächs",
+        "SUID" : 2,
+        "NodeType" : "Werk",
+        "name" : "Kristallgewächs",
+        "shared_name" : "Kristallgewächs"
       },
       "position" : {
         "x" : 1391.1080322265625,
@@ -66,26 +44,62 @@
       "selected" : false
     }, {
       "data" : {
-        "id" : "405",
+        "id" : "3",
         "selected" : false,
-        "cytoscape_alias_list" : [ "Alsatian Pinot Blanc" ],
-        "canonicalName" : "Alsatian Pinot Blanc",
-        "SUID" : 425,
-        "NodeType" : "WhiteWine",
-        "name" : "Alsatian Pinot Blanc",
-        "shared_name" : "Alsatian Pinot Blanc"
+        "cytoscape_alias_list" : [ "s'Oberstübli" ],
+        "canonicalName" : "s'Oberstübli",
+        "SUID" : 3,
+        "NodeType" : "Werk",
+        "name" : "s'Oberstübli",
+        "shared_name" : "s'Oberstübli"
       },
       "position" : {
-        "x" : 6593.2421875,
-        "y" : 3798.56884765625
+        "x" : 1391.1080322265625,
+        "y" : 4324.1015625
       },
       "selected" : false
+    }, {
+      "data" : {
+        "id" : "4",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Gerda Steiner & Jörg Lenzlinger. metafloristiek / metafloristik / métafloristique." ],
+        "canonicalName" : "Gerda Steiner & Jörg Lenzlinger. metafloristiek / metafloristik / métafloristique.",
+        "SUID" : 4,
+        "NodeType" : "Ausstellung",
+        "name" : "Gerda Steiner & Jörg Lenzlinger. metafloristiek / metafloristik / métafloristique.",
+        "shared_name" : "Gerda Steiner & Jörg Lenzlinger. metafloristiek / metafloristik / métafloristique."
+      },
+      "position" : {
+        "x" : 1391.1080322265625,
+        "y" : 4324.1015625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "
+          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015"],
+          "canonicalName" : "
+          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
+          "SUID" : 5,
+          "NodeType" : "Ausstellung",
+          "name" : "
+          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
+          "shared_name" : "
+          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015"
+          },
+          "position" : {
+            "x" : 1391.1080322265625,
+            "y" : 4324.1015625
+          },
+          "selected" : false
     }],
     "edges" : [ {
       "data" : {
         "id" : "1763",
-        "source" : "401",
-        "target" : "402",
+        "source" : "1",
+        "target" : "5",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
         "SUID" : 1763,
@@ -98,8 +112,8 @@
     }, {
       "data" : {
         "id" : "1762",
-        "source" : "402",
-        "target" : "403",
+        "source" : "1",
+        "target" : "4",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Chimay",
         "SUID" : 1762,
@@ -112,8 +126,8 @@
     }, {
       "data" : {
         "id" : "431",
-        "source" : "403",
-        "target" : "405",
+        "source" : "2",
+        "target" : "4",
         "selected" : false,
         "canonicalName" : "Winchester Aged Gouda (cr) Syrah",
         "SUID" : 431,
