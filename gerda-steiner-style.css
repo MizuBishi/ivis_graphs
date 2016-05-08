@@ -28,15 +28,15 @@ node {
     overlay-color: #fff;
 }
 
-edge[interaction = "cc"] {
+edge[interaction = "ww"] {
     line-color: #FACD37;
     opacity: 0.666;
     z-index: 9;
-    width: 4;
+    width: 8;
 }
 
 node[NodeType = "Werk"],
-node[NodeType = "CheeseType"] {
+node[NodeType = "WerkTyp"] {
     background-color: #FACD37;
     text-outline-color: #FACD37;
     width: mapData(Quality, 70, 100, 20, 50);
@@ -48,17 +48,17 @@ node[NodeType = "Ausstellung"] {
     text-outline-color: white;
 }
 
-edge[interaction = "cw"] {
+edge[interaction = "wa"] {
     line-color: white;
 }
 
 node[NodeType = "Literatur"] {
-    background-color: #DE3128;
-    text-outline-color: #DE3128;
+    background-color: #A4EB34;
+    text-outline-color: #A4EB34;
 }
 
-edge[interaction = "cr"] {
-    line-color: #DE3128;
+edge[interaction = "wl"] {
+    line-color: #A4EB34;
 }
 
 node.highlighted {

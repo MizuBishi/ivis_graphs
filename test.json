@@ -5,9 +5,9 @@
   "data" : {
     "selected" : true,
     "__Annotations" : [ ],
-    "shared_name" : "WineCheeseNetwork",
+    "shared_name" : "GerdaSteinerNetwork",
     "SUID" : 52,
-    "name" : "WineCheeseNetwork"
+    "name" : "GerdaSteinerNetwork"
   },
   "elements" : {
     "nodes" : [ {
@@ -110,8 +110,6 @@
       "data" : {
         "id" : "7",
         "selected" : false,
-        "id" : "7",
-        "selected" : false,
         "cytoscape_alias_list" : [ "Gerda Steiner & Jörg Lenzlinger. Nationalpark" ],
         "canonicalName" : "Gerda Steiner & Jörg Lenzlinger. Nationalpark",
         "SUID" : 7,
@@ -164,7 +162,7 @@
         "canonicalName" : "Aarauer Bierdeckel (cc) Chimay",
         "SUID" : 1762,
         "name" : "Aarauer Bierdeckel (cc) Chimay",
-        "interaction" : "cc",
+        "interaction" : "wa",
         "shared_interaction" : "cc",
         "shared_name" : "Aarauer Bierdeckel (cc) Chimay"
       },
@@ -178,49 +176,49 @@
         "canonicalName" : "Winchester Aged Gouda (cr) Syrah",
         "SUID" : 431,
         "name" : "Winchester Aged Gouda (cr) Syrah",
-        "interaction" : "cr",
+        "interaction" : "wa",
         "shared_interaction" : "cr",
         "shared_name" : "Winchester Aged Gouda (cr) Syrah"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1762",
+        "id" : "1764",
         "source" : "1",
         "target" : "4",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Chimay",
         "SUID" : 1762,
         "name" : "Aarauer Bierdeckel (cc) Chimay",
-        "interaction" : "cc",
+        "interaction" : "wa",
         "shared_interaction" : "cc",
         "shared_name" : "Aarauer Bierdeckel (cc) Chimay"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1762",
+        "id" : "1765",
         "source" : "2",
         "target" : "6",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Chimay",
         "SUID" : 1762,
         "name" : "Aarauer Bierdeckel (cc) Chimay",
-        "interaction" : "cc",
+        "interaction" : "wl",
         "shared_interaction" : "cc",
         "shared_name" : "Aarauer Bierdeckel (cc) Chimay"
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "1762",
-        "source" : "3",
-        "target" : "7",
+        "id" : "1766",
+        "source" : "7",
+        "target" : "3",
         "selected" : false,
         "canonicalName" : "Aarauer Bierdeckel (cc) Chimay",
         "SUID" : 1762,
         "name" : "Aarauer Bierdeckel (cc) Chimay",
-        "interaction" : "cc",
+        "interaction" : "wl",
         "shared_interaction" : "cc",
         "shared_name" : "Aarauer Bierdeckel (cc) Chimay"
       },
