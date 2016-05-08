@@ -78,23 +78,67 @@
       "data" : {
         "id" : "5",
         "selected" : false,
-        "cytoscape_alias_list" : [ "
-          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015"],
-          "canonicalName" : "
-          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
+        "cytoscape_alias_list" : [ "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015"],
+          "canonicalName" : "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
           "SUID" : 5,
           "NodeType" : "Ausstellung",
-          "name" : "
-          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
-          "shared_name" : "
-          Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015"
+          "name" : "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
+          "shared_name" : "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015"
           },
           "position" : {
             "x" : 1391.1080322265625,
             "y" : 4324.1015625
           },
           "selected" : false
-    }],
+          }, {
+            "data" : {
+              "id" : "6",
+              "selected" : false,
+              "cytoscape_alias_list" : [ "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015" ],
+                "canonicalName" : "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
+                "SUID" : 6,
+                "NodeType" : "Literatur",
+                "name" : "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015",
+                "shared_name" : "Stein aus Licht: Kristallvisionen in der Kunst. Kunstmuseum Bern, 2015"
+                },
+                "position" : {
+                  "x" : 1391.1080322265625,
+                  "y" : 4324.1015625
+                },
+                "selected" : false
+                }, {
+                  "data" : {
+                    "id" : "7",
+                    "selected" : false,
+                    "cytoscape_alias_list" : [ "Gerda Steiner & Jörg Lenzlinger. Nationalpark" ],
+                      "canonicalName" : "Gerda Steiner & Jörg Lenzlinger. Nationalpark",
+                      "SUID" : 7,
+                      "NodeType" : "Literatur",
+                      "name" : "Gerda Steiner & Jörg Lenzlinger. Nationalpark",
+                      "shared_name" : "Gerda Steiner & Jörg Lenzlinger. Nationalpark"
+                      },
+                      "position" : {
+                        "x" : 1391.1080322265625,
+                        "y" : 4324.1015625
+                      },
+                      "selected" : false
+                      }, {
+                        "data" : {
+                          "id" : "8",
+                          "selected" : false,
+                          "cytoscape_alias_list" : [ "Uber die Metapher des Wachstums. Muttenz, Kunsthaus Baselland, 2011. " ],
+                            "canonicalName" : "Uber die Metapher des Wachstums. Muttenz, Kunsthaus Baselland, 2011. ",
+                            "SUID" : 8,
+                            "NodeType" : "Literatur",
+                            "name" : "Uber die Metapher des Wachstums. Muttenz, Kunsthaus Baselland, 2011. ",
+                            "shared_name" : "Uber die Metapher des Wachstums. Muttenz, Kunsthaus Baselland, 2011. "
+                            },
+                            "position" : {
+                              "x" : 1391.1080322265625,
+                              "y" : 4324.1015625
+                            },
+                            "selected" : false
+          }],
     "edges" : [ {
       "data" : {
         "id" : "1763",
