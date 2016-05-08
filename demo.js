@@ -9,7 +9,7 @@ $(function(){
 
   // get exported json from cytoscape desktop via ajax
   var graphP = $.ajax({
-    url: 'example.json', // wine-and-cheese.json
+    url: 'test.json', // wine-and-cheese.json
     type: 'GET',
     dataType: 'json'
   });
@@ -110,8 +110,8 @@ $(function(){
       
       data.NodeTypeFormatted = data.NodeType;
       
-      if( data.NodeTypeFormatted === 'RedWine' ){
-        data.NodeTypeFormatted = 'Red Wine';
+      if( data.NodeTypeFormatted === 'Ausstellung' ){
+        data.NodeTypeFormatted = 'Ausstellung';
       } else if( data.NodeTypeFormatted === 'WhiteWine' ){
         data.NodeTypeFormatted = 'White Wine';
       }
@@ -270,11 +270,11 @@ $(function(){
             filter();
           }
           
-        } else if( type === 'RedWine' ){
+        } else if( type === 'Werk' ){
           
           if( !red ){ filter(); }
           
-        } else if( type === 'WhiteWine' ){
+        } else if( type === 'Ausstellung' ){
           
           if( !white ){ filter(); }
           
