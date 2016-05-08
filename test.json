@@ -1,0 +1,128 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.2.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ ],
+    "shared_name" : "WineCheeseNetwork",
+    "SUID" : 52,
+    "name" : "WineCheeseNetwork"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "401",
+        "Strength" : 5,
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Aarauer Bierdeckel" ],
+        "canonicalName" : "Aarauer Bierdeckel",
+        "Milk" : "Raw cow's milk",
+        "Synonym" : "Kuentener",
+        "Quality" : 90,
+        "Type" : "Semi-soft",
+        "SUID" : 430,
+        "NodeType" : "Cheese",
+        "name" : "Aarauer Bierdeckel",
+        "Country" : "Switzerland",
+        "shared_name" : "Aarauer Bierdeckel"
+      },
+      "position" : {
+        "x" : 4491.9853515625,
+        "y" : 4520.1904296875
+      },
+      "selected" : false
+    },{
+      "data" : {
+        "id" : "402",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Fiumorbu" ],
+        "canonicalName" : "Fiumorbu",
+        "SUID" : 427,
+        "NodeType" : "Cheese",
+        "name" : "Fiumorbu",
+        "shared_name" : "Fiumorbu"
+      },
+      "position" : {
+        "x" : 4576.6962890625,
+        "y" : 4617.2265625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "403",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Beaujolais" ],
+        "canonicalName" : "Beaujolais",
+        "SUID" : 426,
+        "NodeType" : "RedWine",
+        "name" : "Beaujolais",
+        "shared_name" : "Beaujolais"
+      },
+      "position" : {
+        "x" : 1391.1080322265625,
+        "y" : 4324.1015625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "405",
+        "selected" : false,
+        "cytoscape_alias_list" : [ "Alsatian Pinot Blanc" ],
+        "canonicalName" : "Alsatian Pinot Blanc",
+        "SUID" : 425,
+        "NodeType" : "WhiteWine",
+        "name" : "Alsatian Pinot Blanc",
+        "shared_name" : "Alsatian Pinot Blanc"
+      },
+      "position" : {
+        "x" : 6593.2421875,
+        "y" : 3798.56884765625
+      },
+      "selected" : false
+    }],
+    "edges" : [ {
+      "data" : {
+        "id" : "1763",
+        "source" : "401",
+        "target" : "402",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Bergues",
+        "SUID" : 1763,
+        "name" : "Aarauer Bierdeckel (cc) Bergues",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Bergues"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1762",
+        "source" : "402",
+        "target" : "403",
+        "selected" : false,
+        "canonicalName" : "Aarauer Bierdeckel (cc) Chimay",
+        "SUID" : 1762,
+        "name" : "Aarauer Bierdeckel (cc) Chimay",
+        "interaction" : "cc",
+        "shared_interaction" : "cc",
+        "shared_name" : "Aarauer Bierdeckel (cc) Chimay"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "431",
+        "source" : "403",
+        "target" : "405",
+        "selected" : false,
+        "canonicalName" : "Winchester Aged Gouda (cr) Syrah",
+        "SUID" : 431,
+        "name" : "Winchester Aged Gouda (cr) Syrah",
+        "interaction" : "cr",
+        "shared_interaction" : "cr",
+        "shared_name" : "Winchester Aged Gouda (cr) Syrah"
+      },
+      "selected" : false
+    } ]
+  }
+}
