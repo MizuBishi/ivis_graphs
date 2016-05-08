@@ -9,25 +9,25 @@ $(function(){
 
   // get exported json from cytoscape desktop via ajax
   var graphP = $.ajax({
-    url: 'example.json', // wine-and-cheese.json
+    url: 'test.json', // wine-and-cheese.json
     type: 'GET',
     dataType: 'json'
   });
 
   // also get style via ajax
   var styleP = $.ajax({
-    url: 'https://cdn.rawgit.com/maxkfranz/9210c03a591f8736b82d/raw', // wine-and-cheese-style.cycss
+    url: 'gerda-steiner-style.css', // wine-and-cheese-style.cycss
     type: 'GET',
     dataType: 'text'
   });
   
-  var infoTemplate = Handlebars.compile([
+  /* var infoTemplate = Handlebars.compile([
     '<p class="ac-name">{{name}}</p>',
     '<p class="ac-node-type"><i class="fa fa-info-circle"></i> {{NodeTypeFormatted}} {{#if Type}}({{Type}}){{/if}}</p>',
     '{{#if Milk}}<p class="ac-milk"><i class="fa fa-angle-double-right"></i> {{Milk}}</p>{{/if}}',
     '{{#if Country}}<p class="ac-country"><i class="fa fa-map-marker"></i> {{Country}}</p>{{/if}}',
     '<p class="ac-more"><i class="fa fa-external-link"></i> <a target="_blank" href="https://duckduckgo.com/?q={{name}}">More information</a></p>'
-  ].join(''));
+  ].join('')); */
 
   // when both graph export json and style loaded, init cy
   Promise.all([ graphP, styleP ]).then(initCy);
@@ -91,6 +91,7 @@ $(function(){
     });
   }
 
+  /*
   function showNodeInfo( node ){
     $('#info').html( infoTemplate( node.data() ) ).show();
   }
@@ -98,6 +99,9 @@ $(function(){
   function hideNodeInfo(){
     $('#info').hide();
   }
+
+   */
+
 
   function initCy( then ){
     var loading = document.getElementById('loading');
@@ -110,10 +114,10 @@ $(function(){
       
       data.NodeTypeFormatted = data.NodeType;
       
-      if( data.NodeTypeFormatted === 'RedWine' ){
-        data.NodeTypeFormatted = 'Red Wine';
-      } else if( data.NodeTypeFormatted === 'WhiteWine' ){
-        data.NodeTypeFormatted = 'White Wine';
+      if( data.NodeTypeFormatted === 'Literatur' ){
+        data.NodeTypeFormatted = 'Literatur';
+      } else if( data.NodeTypeFormatted === 'Ausstellung' ){
+        data.NodeTypeFormatted = 'Ausstellung';
       }
       
       n.data.orgPos = {
@@ -144,10 +148,13 @@ $(function(){
         y: p.y
       });
     });
-    
+
+    /*
     cy.on('tap', function(){
       $('#search').blur();
     });
+    */
+
 
     cy.on('select', 'node', function(e){
       var node = this;
@@ -256,7 +263,7 @@ $(function(){
           n.addClass('filtered');
         };
         
-        if( type === 'Cheese' ){
+        if( type === 'Werk' ){
           
           var cType = n.data('Type');
           
@@ -270,11 +277,11 @@ $(function(){
             filter();
           }
           
-        } else if( type === 'RedWine' ){
+        } else if( type === 'Literatur' ){
           
           if( !red ){ filter(); }
           
-        } else if( type === 'WhiteWine' ){
+        } else if( type === 'Ausstellung' ){
           
           if( !white ){ filter(); }
           
