@@ -1,0 +1,793 @@
+[
+	{
+		"ZITAT" : "<I>Landschaften. Gerda Steiner<I>. Kunsthalle Basel, 1998. Katalogredaktion: Madeleine Schuppli und Gerda Steiner. Basel, 1998 (Kunsthalle Basel 16)",
+		"TITEL" : "Landschaften. Gerda Steiner",
+		"JAHR" : "1998",
+		"SIGNATUR" : "A2-16950",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "«Gerda Steiner und Jürg Lenzlinger in der Kunsthalle». In: <I>Kunst-Bulletin<I>, 2000, 1/2, S. 52",
+		"TITEL" : "Gerda Steiner und Jürg Lenzlinger in der Kunsthalle",
+		"JAHR" : "2000",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "lin: ««Gärtnerei» in der Kunsthalle Winterthur». In: <I>Neue Zürcher Zeitung<I>, 5.1.2000, S. 36",
+		"TITEL" : "«Gärtnerei» in der Kunsthalle Winterthur",
+		"JAHR" : "2000",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Jörg Lenzlinger & Gerda Steiner - «Lift-up»<I>. Genève, Attitudes, 2000. Genève: Attitudes + CH Creatio Helvetica, 2000 [Poster 90 x 128 cm]",
+		"TITEL" : "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
+		"JAHR" : "2000",
+		"SIGNATUR" : "A3-16869",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004168441"
+	},
+	{
+		"ZITAT" : "Tobler, Konrad: «Ein Ort kämpft für die Kunst». In: <I>Berner Zeitung<I>, 26.5.2000, S. 47",
+		"TITEL" : "Ein Ort kämpft für die Kunst",
+		"JAHR" : "2000",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Yvonne Barmettler: <I>Träge Eiskörper und filigrane Nervkristalle. Installative Arbeiten von Gerda Steiner und Jörg Lenzlinger in der Galerie Stampa<I>, S. 15",
+		"TITEL" : "Träge Eiskörper und filigrane Nervkristalle. Installative Arbeiten von Gerda Steiner und Jörg Lenzlinger in der Galerie Stampa",
+		"JAHR" : "2001",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Claudia Spinelli: «\"doyouwanneseemyblueberrys?\". Mit Gerda Steiner und Jörg Lenzlinger an der Kristallquelle». In: <I>Kunst-Bulletin<I>, 2001, 4, S. 22-27",
+		"TITEL" : "\"doyouwanneseemyblueberrys?\". Mit Gerda Steiner und Jörg Lenzlinger an der Kristallquelle",
+		"JAHR" : "2001",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Gerhard Mack: «Das verdorbene Paradies». In: <I>Die Weltwoche<I>, 21.6.2001, S. 37",
+		"TITEL" : "Das verdorbene Paradies",
+		"JAHR" : "2001",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "kra: «Träumen im Garten. Jörg Lenzlinger und Gerda Steiner, Kunstschaffende». In: <I>züritipp<I>, 24.12./30.12.1999, S. 17",
+		"TITEL" : "Träumen im Garten. Jörg Lenzlinger und Gerda Steiner, Kunstschaffende",
+		"JAHR" : "1999",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Niels Walter: «Frau Schnack und die Sülze». In: <I>Tages-Anzeiger<I>, 17.12.1999",
+		"TITEL" : "Frau Schnack und die Sülze",
+		"JAHR" : "1999",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Annelise Zwez: «Wenn Kunstschaffende als Regisseure wirken». In: <I>Aargauer Zeitung<I>, 14.9.2002, S. 12",
+		"TITEL" : "Wenn Kunstschaffende als Regisseure wirken",
+		"JAHR" : "2002",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Andreas Klaeui: «Wie kam wohl das Walross nach Madrid». In: <I>Basler Zeitung<I>, 15.2./16.2.2003, S. 43",
+		"TITEL" : "Wie kam wohl das Walross nach Madrid",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "azw.: «Zwischen Realität und Traum». In: <I>Bieler Tagblatt<I>, 7.1.2003, S. 20",
+		"TITEL" : "Zwischen Realität und Traum",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "reg: «Ein Schaufenster für Schweizer Kunst». In: <I>Der Bund<I>, 9.1.2003, S. 25",
+		"TITEL" : "Ein Schaufenster für Schweizer Kunst",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Boris Schibler: «Schweizer Kunst in Spanien». In: <I>Basler Zeitung<I>, 9.1.2003, S. 35",
+		"TITEL" : "Schweizer Kunst in Spanien",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Moltitudini - Solitudini<I>. Bozen, Museion. Museum für moderne und zeitgenössische Kunst, 2003. Ein Projekt von Sergio Risaliti; [Texte:] Alois Lagader [et al.]; in Zusammenarbeit mit AR/GE Kunst - Galerie Museum Bozen/Galleria Museo Bolzano. Bozen, 2003",
+		"TITEL" : "Moltitudini - Solitudini",
+		"JAHR" : "2003",
+		"SIGNATUR" : "A3-18081",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004894751"
+	},
+	{
+		"ZITAT" : "Rolf Bismarck / Claudia Spinelli: «Schönheitsoffensive». In: <I>Kunst-Bulletin<I>, 2003, 9, S. 28-31",
+		"TITEL" : "Schönheitsoffensive",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Sabine Altorfer: «Grosser Anspruch in Venedig». In: <I>Aargauer Zeitung<I>, 11.6.2003, S. 12",
+		"TITEL" : "Grosser Anspruch in Venedig",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Annelise Zwez: «Junge Schweizer Kunst im Centre PasquArt». In: <I>Kunst-Bulletin<I>, 2003, 5, S. 53",
+		"TITEL" : "Junge Schweizer Kunst im Centre PasquArt",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Barbara Basting: «Anrufung der jungen Schweizer Kunst». In: <I>Tages-Anzeiger<I>, 30.4.2003, S. 63",
+		"TITEL" : "Anrufung der jungen Schweizer Kunst",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Barbara Basting: «Das gute Blumenwunder von San Staë». In: <I>Tages-Anzeiger<I>, 16.6.2003, S. 43",
+		"TITEL" : "Das gute Blumenwunder von San Staë",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Ursula Badrutt Schoch: «Wunderwälder und andere Welten». In: <I>St. Galler Tagblatt<I>, 13.6.2003, S. 27",
+		"TITEL" : "Wunderwälder und andere Welten",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Annelise Zwez: «Magische Tiefe und luftige Leichtigkeit». In: <I>Aargauer Zeitung<I>, 16.6.2003, S. 10",
+		"TITEL" : "Magische Tiefe und luftige Leichtigkeit",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "ek [Edith Krebs]: «Schweizer KünstlerInnen an der Biennale in Venedig». In: <I>Wochenzeitung<I>, 26.6.2003, 26, S. 17",
+		"TITEL" : "Schweizer KünstlerInnen an der Biennale in Venedig",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "«Jedem seine Ausstellung». In: <I>Neue Zürcher Zeitung<I>, 14.6./15.6.2003, S. 61",
+		"TITEL" : "Jedem seine Ausstellung",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Claudia Spinelli: «Kein gutes Jahr». In: <I>Die Weltwoche<I>, 19.6.2003, 25, S. 88-89",
+		"TITEL" : "Kein gutes Jahr",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "asg: «Made in Switzerland». In: <I>Neue Zürcher Zeitung<I>, 19.4./20.4.2003, S. 50",
+		"TITEL" : "Made in Switzerland",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Elisabeth Chardon: «Un container abrite un joyeux paradis où se mêlent plantes naturelles et artificielles». In: <I>Le Temps<I>, 9.6.2004, p. 35",
+		"TITEL" : "Un container abrite un joyeux paradis où se mêlent plantes naturelles et artificielles",
+		"JAHR" : "2004",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "mmv: «Im Container-Dschungel». In: <I>Neue Zürcher Zeitung<I>, 14.8./15.8.2004, S. 46",
+		"TITEL" : "Im Container-Dschungel",
+		"JAHR" : "2004",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Simon Baur: «Kakadu im Urwald». In: <I>bazkulturmagazin.<I>, 19.5.2005, S. 22-23",
+		"TITEL" : "Kakadu im Urwald",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "David Signer: «Jörg Lenzlinger und Gerda Steiner». In: <I>Die Weltwoche<I>, 26.5.2005, 21, S. 90",
+		"TITEL" : "Jörg Lenzlinger und Gerda Steiner",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Ursula Badrutt Schoch: «Kobra, Kabel, Kugelfisch». In: <I>St. Galler Tagblatt<I>, 25.11.2005, S. 25",
+		"TITEL" : "Kobra, Kabel, Kugelfisch",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner. Wandmalerei<I>. Münster, Stadthausgalerie, 2001. [Text:] Gail B. Kirkpatrick. Bönen: Kettler, 2001",
+		"TITEL" : "Gerda Steiner. Wandmalerei",
+		"JAHR" : "2001",
+		"SIGNATUR" : "A1-13849",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004894756"
+	},
+	{
+		"ZITAT" : "J.O.: «Ein Hauch von Biennale». In: <I>St. Galler Tagblatt<I>, 2.6.2005, S. 54",
+		"TITEL" : "Ein Hauch von Biennale",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Mirko Bischofberger: «Bäume der Erkenntnis». In: <I>Neue Zürcher Zeitung<I>, 12.5.2005, S. 52",
+		"TITEL" : "Bäume der Erkenntnis",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Peter Müller: «Die Seelen-Apotheke». In: <I>St. Galler Tagblatt<I>, 21.1.2006, S. 23",
+		"TITEL" : "Die Seelen-Apotheke",
+		"JAHR" : "2006",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "J. O.: «Wo die Weihnachts-Geschichten spriessen». In: <I>St. Galler Tagblatt<I>, 24.12.2005, S. 41",
+		"TITEL" : "Wo die Weihnachts-Geschichten spriessen",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner & Jörg Lenzlinger. Seelenwärmer. Installation in der Stiftsbibliothek St.Gallen<I>. Stiftsbibliothek St. Gallen, 2005-06. Hrsg.: Silvio Frigg [Vorwort von Haruki Murakami]. St. Gallen: Verlag am Klosterhof, 2005",
+		"TITEL" : "Gerda Steiner & Jörg Lenzlinger. Seelenwärmer. Installation in der Stiftsbibliothek St.Gallen",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Willi Bürgi: «Aus Folianten wuchert Fantasie». In: <I>Neue Luzerner Zeitung<I>, 24.1.2006, S. 33",
+		"TITEL" : "Aus Folianten wuchert Fantasie",
+		"JAHR" : "2006",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>The Lay of the Land. Gerda Steiner & Jörg Lenzlinger<I>. Cincinnati, Contemporary Arts Center, 2001. [Text:] Sue Spaid. Cincinnati, 2001",
+		"TITEL" : "The Lay of the Land. Gerda Steiner & Jörg Lenzlinger",
+		"JAHR" : "2001",
+		"SIGNATUR" : "A1-13850",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004894745"
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner & Jörg Lenzlinger. Heimatmaschine<I>. Text: Gerda Steiner und Jörg Lenzlinger. Basel: Urs Engeler, 2003",
+		"TITEL" : "Gerda Steiner & Jörg Lenzlinger. Heimatmaschine",
+		"JAHR" : "2003",
+		"SIGNATUR" : "B1-9673",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004543794"
+	},
+	{
+		"ZITAT" : "<I>Cómo llegó la morsa a Madrid? Giardino calante, Schönheitsfehler und Goldgruben, Wucher, Whalebalance, Les Envahisseurs!, Brainforest, Wurzelbehandlung, La Fuente de la Juventud<I>. Texte: Gerda Steiner und Jörg Lenzlinger. Basel: Christoph Merian, 2005",
+		"TITEL" : "Cómo llegó la morsa a Madrid? Giardino calante, Schönheitsfehler und Goldgruben, Wucher, Whalebalance, Les Envahisseurs!, Brainforest, Wurzelbehandlung, La Fuente de la Juventud",
+		"JAHR" : "2005",
+		"SIGNATUR" : "B1-10096",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005004418"
+	},
+	{
+		"ZITAT" : "<I>I Bienal Internacional de arte contemporáneo de Sevilla. I International Biennial of Contemporary Art of Seville. La Alegría de mis sueños. The Joy of My Dreams<I>. Sevilla, Centro Andaluz de Arte Contemporáneo. Monasterio de la Cartuja, 2004. Textos: Hans-Joachim Müller. Sevilla: Fundación BIACS, 2004",
+		"TITEL" : "I Bienal Internacional de arte contemporáneo de Sevilla. I International Biennial of Contemporary Art of Seville. La Alegría de mis sueños. The Joy of My Dreams",
+		"JAHR" : "2004",
+		"SIGNATUR" : "A2-18531",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004897323"
+	},
+	{
+		"ZITAT" : "<I>Gute und dumme Wunder. Miracoli buoni e stupidi. Miracles bons ou bêtes. Gerda Steiner & Jörg Lenzlinger<I>. L. Biennale di Venezia, Chiesa San Staë, 2003. Hrsg. vom Bundesamt für Kultur, Bern; [Texte:] Tom Allison [et al.]. Baden: Lars Müller, 2003, 2 Bde. [erscheint anlässlich der Ausstellung <I>Fallender Garten<I> in der Kirche San Staë, Venedig, im Rahmen der 50. Biennale Venedig 2003, als Beitrag der Schweiz]",
+		"TITEL" : "Gute und dumme Wunder. Miracoli buoni e stupidi. Miracles bons ou bêtes. Gerda Steiner & Jörg Lenzlinger",
+		"JAHR" : "2003",
+		"SIGNATUR" : "A2-18136:1-2",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004546535"
+	},
+	{
+		"ZITAT" : "Kathrin Frauenfelder: «Das Seelenleben der Bücher». In: <I>Zürichsee-Zeitungen<I>, 7.1.2006, S. 19",
+		"TITEL" : "Das Seelenleben der Bücher",
+		"JAHR" : "2006",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "kbe.: «Entfesselte Bücher». In: <I>Neue Zürcher Zeitung<I>, 14.1./15.1.2006, S. 50",
+		"TITEL" : "Entfesselte Bücher",
+		"JAHR" : "2006",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Late Shift. Kunst als symbolisches Terrain zwischen Schichtarbeit und Fitnesspark<I>. Zürich, Puls 5, 2005. Hrsg.: Claudia Spinelli und Gianni Jetzer. Zürich: JRP/Ringier, 2006",
+		"TITEL" : "Late Shift. Kunst als symbolisches Terrain zwischen Schichtarbeit und Fitnesspark",
+		"JAHR" : "2005",
+		"SIGNATUR" : "A1-14147",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005216564"
+	},
+	{
+		"ZITAT" : "csh: «Pulsierendes Herz». In: <I>Tages-Anzeiger<I>, 27.9.2006, S. 22",
+		"TITEL" : "Pulsierendes Herz",
+		"JAHR" : "2006",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Alice Henkes: ««Il faut cultiver notre jardin» im Kunsthaus». In: <I>Kunst-Bulletin<I>, 2007, 4, S. 54",
+		"TITEL" : "«Il faut cultiver notre jardin» im Kunsthaus",
+		"JAHR" : "2007",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Sabine Altorfer: «Bei der NAB überwindet Fantasie Grenzen». In: <I>Aargauer Zeitung<I>, 11.8.2007, S. 9",
+		"TITEL" : "Bei der NAB überwindet Fantasie Grenzen",
+		"JAHR" : "2007",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Dutyfree *useme*. Humanity, Urban Planning, Dignity. Sneak preview<I>. Biennale di Venezia, 2000. Published by the Swiss Federal Office of Culture; [texts:] Harm Lux [et al.]. Sulgen and Zurich: Niggli, 2000",
+		"TITEL" : "Dutyfree *useme*. Humanity, Urban Planning, Dignity. Sneak preview",
+		"JAHR" : "2000",
+		"SIGNATUR" : "A2-17421",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=003931656"
+	},
+	{
+		"ZITAT" : "Barbara Basting: «Mentalitätsraum Swissness». In: <I>Tages-Anzeiger<I>, 6.3.2007, S. 49",
+		"TITEL" : "Mentalitätsraum Swissness",
+		"JAHR" : "2007",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Tanja Klemm: «Ökosophie im Nahen Osten: Die achte Biennale in Sharjah». In: <I>Kunstforum International<I>, 2007, Juni-Juli, 186, S. 215-239",
+		"TITEL" : "Ökosophie im Nahen Osten: Die achte Biennale in Sharjah",
+		"JAHR" : "2007",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "JES: «St. Marie aux Mines: Steiner & Lenzlinger in der Mine ‹Gabe Gottes›». In: <I>Kunst-Bulletin<I>, 2007, 11, S. 94-95",
+		"TITEL" : "St. Marie aux Mines: Steiner & Lenzlinger in der Mine ‹Gabe Gottes›",
+		"JAHR" : "2007",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Juri Steiner: «Mit Klee kann man noch viele Reisen machen». In: <I>Kunst-Bulletin<I>, 2008, 3, S. 30-37",
+		"TITEL" : "Mit Klee kann man noch viele Reisen machen",
+		"JAHR" : "2008",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Konrad Tobler: «Das Tor zum verlassenen Garten. ‹Jenseits von Eden› - eine verzauberte Ausstellung im Zentrum Paul Klee». In: <I>Neue Zürcher Zeitung<I>, 26.6.2008, S. 57",
+		"TITEL" : "Das Tor zum verlassenen Garten. ‹Jenseits von Eden› - eine verzauberte Ausstellung im Zentrum Paul Klee",
+		"JAHR" : "2008",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "IT: «‹Jenseits von Eden›. Im Zaubergarten sind die Blumen verwelkt». In: <I>Schweizer Illustrierte<I>, 2008, 26, S. 58",
+		"TITEL" : "‹Jenseits von Eden›. Im Zaubergarten sind die Blumen verwelkt",
+		"JAHR" : "2008",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Sieglinde Geisel: «Die tropische Kunst in unseren Köpfen». In: <I>Neue Zürcher Zeitung<I>, 14.10.2008, S. 42",
+		"TITEL" : "Die tropische Kunst in unseren Köpfen",
+		"JAHR" : "2008",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner & Jörg Lenzlinger. The Water Hole<I>. Australian Centre for Contemporary Art, 2008-09.",
+		"TITEL" : "Gerda Steiner & Jörg Lenzlinger. The Water Hole",
+		"JAHR" : "2008",
+		"SIGNATUR" : "A2-19691",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=006203789"
+	},
+	{
+		"ZITAT" : "<I>Atmosphère argentée. A propos du Jardin de Lune de Gerda Steiner et Jörg Lenzlinger<I>. Sélestat Cedex, FRAC Alsace, 2007-08. Texte: Jens Emil Sennewald. Sélestat Cedex, 2008 [installation dans la mine Gabe Gottes, Gerda Steiner & Jörg Lenzlinger, Sainte-Marie-aux-Mines]",
+		"TITEL" : "Atmosphère argentée. A propos du Jardin de Lune de Gerda Steiner et Jörg Lenzlinger",
+		"JAHR" : "2007",
+		"SIGNATUR" : "A1-14474",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005673607"
+	},
+	{
+		"ZITAT" : "<I>Heimatfabrik. Über die Produktion von Heimat<I>. Murten, Expo.02, 2002. Hrsg.: Espace Mittelland-Kantone Bern, Freiburg, Jura, Neuchâtel, Solothurn, Waadt, Kanton Aargau; Beiträge: Iso Camartin [et al.]. Sulgen und Zürich: Niggli, 2002 [erschent anlässlich der Ausstellung <I>Heimatfabrik<I> an der Schweizerischen Landesausstellung Expo.02]",
+		"TITEL" : "Heimatfabrik. Über die Produktion von Heimat",
+		"JAHR" : "2002",
+		"SIGNATUR" : "A2-18371",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004477533"
+	},
+	{
+		"ZITAT" : "<I>Utopics. Systems and Landmarks<I>. Schweizerische Plastikausstellung Biel, 2009. Editor: Simon Lamunière [et al.]; Foreword: Jacqueline Burckhardt. Zürich: JRP Ringier, 2009 [This book is published on the occasion of \"Utopics. 11th Swiss Sculpture Exhibition\", Bienne, August 30 - October 25, 2009]",
+		"TITEL" : "Utopics. Systems and Landmarks",
+		"JAHR" : "2009",
+		"SIGNATUR" : "A1-14588:1",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005882309"
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner & Jörg Lenzlinger. Das vegetative Nervensystem<I>. Düsseldorf, Museum Kunst Palast. [Text:] Miriam van Gehren; [Vorwort:] Beat Wismer. Köln, 2008 [Permanente Installation seit 2006]",
+		"TITEL" : "Gerda Steiner & Jörg Lenzlinger. Das vegetative Nervensystem",
+		"JAHR" : "2006",
+		"SIGNATUR" : "A2-19694",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Felicità. Freude, Glück und Emotionen in der zeitgenössischen Kunst<I>. Biel, Centre PasquArt, 2010.",
+		"TITEL" : "Felicità. Freude, Glück und Emotionen in der zeitgenössischen Kunst",
+		"JAHR" : "2010",
+		"SIGNATUR" : "A2-19703",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=006183313"
+	},
+	{
+		"ZITAT" : "<I>Uber die Metapher des Wachstums<I>. Muttenz, Kunsthaus Baselland, 2011. Herausgeber: René Zechlin, Sabine Schaschl und Holger Kube Ventura. Basel: Christoph Merian, 2011",
+		"TITEL" : "Uber die Metapher des Wachstums",
+		"JAHR" : "2011",
+		"SIGNATUR" : "A3-20379",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner Jörg Lenzlinger. Como llego la morsa a Madrid<I>. Madrid, La Casa Encendida, 2003. Textos: Pilar Campos [et al.]. Madrid, 2003",
+		"TITEL" : "Gerda Steiner Jörg Lenzlinger. Como llego la morsa a Madrid",
+		"JAHR" : "2003",
+		"SIGNATUR" : "A1-15100",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>L Esposizione Internazionale d’Arte. Sogni e conflitti. La dittatura dello spettatore – Dreams and conflicts. The dictatorship of the viewer<I>. Biennale di Venezia, 2003. Venezia: Marsilio, 2003",
+		"TITEL" : "L Esposizione Internazionale d’Arte. Sogni e conflitti. La dittatura dello spettatore – Dreams and conflicts. The dictatorship of the viewer",
+		"JAHR" : "2003",
+		"SIGNATUR" : "A3-17501",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004543842"
+	},
+	{
+		"ZITAT" : "Gerda Steiner & Jörg Lenzlinger: <I>Hochwasser. High Water. Trink oh Herz vom Überfluss der Zeit! Drink oh Heart from the Abundance of Time‹I›. Remagen, Arp Museum Bahnhof Rolandseck, 2011. [Texte:] Oliver Kornhoff [et al.]. Köln: Snoeck, 2011",
+		"TITEL" : "Hochwasser. High Water. Trink oh Herz vom Überfluss der Zeit! Drink oh Heart from the Abundance of Time!",
+		"JAHR" : "2011",
+		"SIGNATUR" : "A2-20231",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner & Jörg Lenzlinger. Nationalpark<I>. Chur, Bündner Kunstmuseum, 2013. Hrsg. von Stephan Kunz. Zürich: Lars Müller, 2014",
+		"TITEL" : "Gerda Steiner & Jörg Lenzlinger. Nationalpark",
+		"JAHR" : "2013",
+		"SIGNATUR" : "A2-20486",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Echigo-Tsumari Satoyama Museum of Contemporary Art, Kinare. Artworks catalog 2012<I>. Echigo-Tsumari Satoyama Museum of Contemporary Art, Kinare, 2012. Edited by: Motoki Sakai [et.al.]. Echigo-Tsumari: Kinare, 2012",
+		"TITEL" : "Echigo-Tsumari Satoyama Museum of Contemporary Art, Kinare. Artworks catalog 2012",
+		"JAHR" : "2012",
+		"SIGNATUR" : "A3-21048",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Stein aus Licht: Kristallvisionen in der Kunst<I>. Kunstmuseum Bern, 2015. Hrsg. von Kunstmuseum Bern, Matthias Frehner und Daniel Spanke; Texte: Johannes Grave [et al.]. Bielefeld: Kerber, 2015",
+		"TITEL" : "Stein aus Licht: Kristallvisionen in der Kunst",
+		"JAHR" : "2015",
+		"SIGNATUR" : "A3-21618",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Gute und dumme Wunder<I>. Gerda Steiner & Jörg Lenzlinger. Baden: Lars Müller, 2003 [Erscheint anlässlich der Ausstellung \"Fallender Garten\" in der Kirche San Staë, Venedig, im Rahmen der 50. Biennale Venedig 2003, als Beitrag der Schweiz]",
+		"TITEL" : "Gute und dumme Wunder",
+		"JAHR" : "2003",
+		"SIGNATUR" : "A2-18136",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004546535"
+	},
+	{
+		"ZITAT" : "Liselotte Schnöller Wirth: <I>Gerda Steiner<I>. [Text: Liselotte Wirth Schnöller]. [S.l.]: Die Mobiliar Gruppe, 2002 (Kunstblatt 2002)",
+		"TITEL" : "Gerda Steiner",
+		"JAHR" : "2002",
+		"SIGNATUR" : "B3-14243",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004900629"
+	},
+	{
+		"ZITAT" : "Kathy Zarnegin: <I>Evaseleien<I>. [Text: Kathy Zarnegin; Bild: Gerda Steiner]. [S.l.]: [s.n.], [1998]",
+		"TITEL" : "Evaseleien",
+		"JAHR" : "",
+		"SIGNATUR" : "B1-9958",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004894739"
+	},
+	{
+		"ZITAT" : "Silvio Frigg: <I>Seelenwärmer: Installation in der Stiftsbibliothek St. Gallen<I>. Gerda Steiner & Jörg Lenzlinger; [Vorwort von Haruki Murakami; Hrsg.: Silvio Frigg ... (et al.)]. St. Gallen: Verlag am Klosterhof, 2005 [Texte in Dt., Japan. und Engl.]",
+		"TITEL" : "Seelenwärmer: Installation in der Stiftsbibliothek St. Gallen",
+		"JAHR" : "2005",
+		"SIGNATUR" : "A2-19015",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005096112"
+	},
+	{
+		"ZITAT" : "<I>Gerda Steiner: Chew me who can<I>. Warszawa: Galeria Foksal, 1997",
+		"TITEL" : "Gerda Steiner: Chew me who can",
+		"JAHR" : "1997",
+		"SIGNATUR" : "A2-16873",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=001871910"
+	},
+	{
+		"ZITAT" : "<I>Fleurs. Blumen in der zeitgenössischen Kunst und Naturkunde<I>. Schaffhausen, Museum zu Allerheiligen, 2000. Hrsg. von Markus Stegmann. Basel: Schwabe, 2000",
+		"TITEL" : "Fleurs. Blumen in der zeitgenössischen Kunst und Naturkunde",
+		"JAHR" : "2000",
+		"SIGNATUR" : "A2-17407",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=003907733"
+	},
+	{
+		"ZITAT" : "Gerda Steiner und Jörg Lenzlinger: <I>The mystery of fertility<I>. Installationen, Fotografien und Texte: Gerda Steiner und Jörg Lenzlinger. [Basel]: Christoph Merian, 2010 [Paralleltexte in Deutsch und Englisch]",
+		"TITEL" : "The mystery of fertility",
+		"JAHR" : "2010",
+		"SIGNATUR" : "B1-11092",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005953246"
+	},
+	{
+		"ZITAT" : "<I>Utopics. 11. Schweizerische Plastikausstellung Biel<I>. Schweizerische Plastikausstellung Biel, 2009. Hrsg.: Simon Lamunière; Redaktion: Gregor Staiger. Biel, 2009",
+		"TITEL" : "Utopics. 11. Schweizerische Plastikausstellung Biel",
+		"JAHR" : "2009",
+		"SIGNATUR" : "A1-14588:2",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005882309"
+	},
+	{
+		"ZITAT" : "Boris Schibler: «Kunstförderung in Momentaufnahme». In: <I>Basler Zeitung<I>, 4.9.2003, S. 32",
+		"TITEL" : "Kunstförderung in Momentaufnahme",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "her: «Bloss nicht schlafen». In: <I>Neue Zürcher Zeitung<I>, 25.1./26.1.2003, S. 62",
+		"TITEL" : "Bloss nicht schlafen",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Musée CoCo - Museum der Komplizen und Kollaborateure<I>. Zürich, Les Complices* Espace libre + Edition, 2005. Hrsg.: Andrea Thal und Jean-Claude Freymond-Guth. Zürich: JRP/Ringier, 2005",
+		"TITEL" : "Musée CoCo - Museum der Komplizen und Kollaborateure",
+		"JAHR" : "2005",
+		"SIGNATUR" : "A1-13994",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005039355"
+	},
+	{
+		"ZITAT" : "Samuel Herzog: «Lässig, selbstverständlich, teilweise jung». In: <I>Neue Zürcher Zeitung<I>, 21.2.2003, S. 61",
+		"TITEL" : "Lässig, selbstverständlich, teilweise jung",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Béatrice Schmidt: «Die Flüchtigkeit des Augenblicks». In: <I>Der Bund<I>, 1.4.2003, S. 27",
+		"TITEL" : "Die Flüchtigkeit des Augenblicks",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Buenos días Buenos Aires, arte contemporáneo suizo / art contemporain suisse<I>. Buenos Aires, Museo de Arte Moderno, 2003-04. [Prefacio:] Rudolf Velhagen; [textos:] Jean-Paul Felley und Olivier Kaeser. Buenos Aires, 2004",
+		"TITEL" : "Buenos días Buenos Aires, arte contemporáneo suizo / art contemporain suisse",
+		"JAHR" : "2003",
+		"SIGNATUR" : "A1-13804",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004803680"
+	},
+	{
+		"ZITAT" : "<I>In diesen Zeiten, c'est le moment. Eine Begegnung mit der jungen Kunstszene Schweiz. Une rencontre avec la jeune scène artistique suisse. Un incontro con la giovane scena artistica svizzera<I>. Biel, Centre PasquArt, 2003. Hrsg.: Dolores Denaro; Texte: Hélène Cagnard [et al.]. Zürich: Fink, 2003",
+		"TITEL" : "In diesen Zeiten, c'est le moment. Eine Begegnung mit der jungen Kunstszene Schweiz. Une rencontre avec la jeune scène artistique suisse. Un incontro con la giovane scena artistica svizzera",
+		"JAHR" : "2003",
+		"SIGNATUR" : "A2-18124",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004531514"
+	},
+	{
+		"ZITAT" : "Brita Polzer: «\"Public-Affairs - Von Beuys bis Zittel\" - im Kunsthaus». In: <I>Kunst-Bulletin<I>, 2002, 11, S. 58",
+		"TITEL" : "\"Public-Affairs - Von Beuys bis Zittel\" - im Kunsthaus",
+		"JAHR" : "2002",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Annelise Zwez: «Die Fiktion der Realität». In: <I>Bieler Tagblatt<I>, 29.3.2003, S. 30",
+		"TITEL" : "Die Fiktion der Realität",
+		"JAHR" : "2003",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Freie Sicht aufs Mittelmeer. Junge Schweizer Kunst<I>. Kunsthaus Zürich; Frankfurt am Main, Schirn Kunsthalle, 1998. Katalog: Bice Curiger. Zürich: Scalo, 1998",
+		"TITEL" : "Freie Sicht aufs Mittelmeer. Junge Schweizer Kunst",
+		"JAHR" : "1998",
+		"SIGNATUR" : "A3-15744",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=001927666"
+	},
+	{
+		"ZITAT" : "Basting, Barbara: «Kuratoren verführen». In: <I>Wochenzeitung<I>, 8.6.2000, S. 22",
+		"TITEL" : "Kuratoren verführen",
+		"JAHR" : "2000",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Kathleen Bühler: «Wo die Natur zur Kunst wird». In: <I>Der Landbote<I>, 20.12.1999",
+		"TITEL" : "Wo die Natur zur Kunst wird",
+		"JAHR" : "1999",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Public Affairs. Das Öffentliche in der Kunst<I>. Kunsthaus Zürich, 2002. Ausstellung und Katalog: Bice Curiger. Zürich, 2002",
+		"TITEL" : "Public Affairs. Das Öffentliche in der Kunst",
+		"JAHR" : "2002",
+		"SIGNATUR" : "A3-17270",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004404540"
+	},
+	{
+		"ZITAT" : "Imbach, Jost Martin: «Farbige Kristalllandschaften». In: <I>Der Bund<I>, 22.6.2000, S. 7",
+		"TITEL" : "Farbige Kristalllandschaften",
+		"JAHR" : "2000",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Jörg Becher: «Künstlerrating. Künstler im Beauty-Contest». In: <I>Bilanz<I>, 2001, 6",
+		"TITEL" : "Künstlerrating. Künstler im Beauty-Contest",
+		"JAHR" : "2001",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Barbara Basting: «Gärten waren für Paul Klee eine Fluchtidylle». In: <I>Tages-Anzeiger<I>, 2.7.2008, S. 43",
+		"TITEL" : "Gärten waren für Paul Klee eine Fluchtidylle",
+		"JAHR" : "2008",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Jörg Becher: <I>Die 50 wichtigsten Künstler der Schweiz<I>. Basel: Echtzeit, 2007",
+		"TITEL" : "Die 50 wichtigsten Künstler der Schweiz",
+		"JAHR" : "2007",
+		"SIGNATUR" : "B2-15496",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Top of central Switzerland<I>. Kunstmuseum Luzern, 2007-08. Texte: Stefan Banz [et al.]. Luzern, 2007",
+		"TITEL" : "Top of central Switzerland",
+		"JAHR" : "2007",
+		"SIGNATUR" : "A3-19083",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Parkett. Collaborations & Editions since 1984<I>. New York, Museum of Modern Art, 2001. Zürich: Parkett, [2007?] [Originally published on the occasion of the Parkett exhibition at the Museum of Modern Art, New York. 2001. Reprinted and updated with a text booklet and color postcards of all artists’ editions]",
+		"TITEL" : "Parkett. Collaborations & Editions since 1984",
+		"JAHR" : "2001",
+		"SIGNATUR" : "A1-14330/RARA",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005432228"
+	},
+	{
+		"ZITAT" : "<I>Exhibizion. Positionen junger Kunst und Kultur Z2000<I>. Berlin, Akademie der Künste, 1999-2001. Berlin: Gestalten, 2000 [erschien im Rahmen von «Das Neue Berlin». Ausstellungen und Veranstaltungen vom 23. Mai 1999 bis 1. Januar 2001]",
+		"TITEL" : "Exhibizion. Positionen junger Kunst und Kultur Z2000",
+		"JAHR" : "1999",
+		"SIGNATUR" : "A3-17152",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004261785"
+	},
+	{
+		"ZITAT" : "<I>The Encounters in the 21st Century: Polyphony - Emerging Resonances<I>. Kanazawa, 21st Century Museum of Contemporary Art, 2004-05. [Texts:] Yutaka Mino [et al.]. Kanazawa, 2004",
+		"TITEL" : "The Encounters in the 21st Century: Polyphony - Emerging Resonances",
+		"JAHR" : "2004",
+		"SIGNATUR" : "A1-13996",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005044748"
+	},
+	{
+		"ZITAT" : "<I>Une Question de Génération<I>. Musée d'Art Contemporain de Lyon, 2007. Avant-propos: Michel Ritter. Lyon, 2007",
+		"TITEL" : "Une Question de Génération",
+		"JAHR" : "2007",
+		"SIGNATUR" : "A3-18868",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005384711"
+	},
+	{
+		"ZITAT" : "Daniele Muscionico: «Wie der Leguan ins Sandwich kommt». In: <I>Neue Zürcher Zeitung<I>, 14.3.2005, S. 54",
+		"TITEL" : "Wie der Leguan ins Sandwich kommt",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "«St. Gallen: Gerda Steiner und Jörg Lenzlinger in der Stiftsbibliothek». In: <I>Kunst-Bulletin<I>, 2006, 1/2, S. 86",
+		"TITEL" : "St. Gallen: Gerda Steiner und Jörg Lenzlinger in der Stiftsbibliothek",
+		"JAHR" : "2006",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Präzision und Wahnsinn. Swiss Made!+. Positionen der Schweizer Kunst von Hodler bis Hirschhorn<I>. Kunstmuseum Wolfsburg, 2007. Mit Beiträgen von Markus Brüderlin [et al.]. Ostfildern: Hatje Cantz, 2007",
+		"TITEL" : "Präzision und Wahnsinn. Swiss Made!+. Positionen der Schweizer Kunst von Hodler bis Hirschhorn",
+		"JAHR" : "2007",
+		"SIGNATUR" : "A3-18880",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005368804"
+	},
+	{
+		"ZITAT" : "<I>Il faut cultiver notre jardin<I>. Kunsthaus Langenthal, 2007. Texte: Fanni Fetzer, Eveline Suter und Oliver Orest Tschirky. Langenthal, 2007",
+		"TITEL" : "Il faut cultiver notre jardin",
+		"JAHR" : "2007",
+		"SIGNATUR" : "A1-14252",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005344289"
+	},
+	{
+		"ZITAT" : "<I>einfach komplex - Bildbäume und Baumbilder in der Wissenschaft<I>. Museum für Gestaltung Zürich, 2005. Hrsg.: Barbara Bader, Andres Janser und Marius Kwint. Zürich, 2005",
+		"TITEL" : "einfach komplex - Bildbäume und Baumbilder in der Wissenschaft",
+		"JAHR" : "2005",
+		"SIGNATUR" : "A3-18190",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004939507"
+	},
+	{
+		"ZITAT" : "mju.: «Massage für alle». In: <I>Neue Zürcher Zeitung<I>, 16.9.2005, S. 53",
+		"TITEL" : "Massage für alle",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Attitudes 1994-2004<I>. [Zurich]: Fink, 2005",
+		"TITEL" : "Attitudes 1994-2004",
+		"JAHR" : "2005",
+		"SIGNATUR" : "A1-14024",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005076052"
+	},
+	{
+		"ZITAT" : "Anna Mohal: «Berlinde de Bruyckere, Gerda Steiner & Jörg Lenzlinger im Maison Rouge». In: <I>Kunst-Bulletin<I>, 2005, 9, S. 54",
+		"TITEL" : "Berlinde de Bruyckere, Gerda Steiner & Jörg Lenzlinger im Maison Rouge",
+		"JAHR" : "2005",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Alpine air. Swiss Artists Inspired by Mountains<I>, Ausst.-Kat. Matsumoto City Museum of Art, Tokyo; Shimane Art Museum; The Bunkamura Museum of Art, Tokyo, 2005.",
+		"TITEL" : "Alpine air. Swiss Artists Inspired by Mountains",
+		"JAHR" : "2005",
+		"SIGNATUR" : "A3-18402",
+		"NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005097133"
+	},
+	{
+		"ZITAT" : "Melissa Müller: «Letzte Tage für «Seelenwärmer»». In: <I>St. Galler Tagblatt<I>, 22.2.2006, S. 39",
+		"TITEL" : "Letzte Tage für «Seelenwärmer»",
+		"JAHR" : "2006",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "<I>Territoires<I>. Bex & Arts, 2011. [Texte:] Pascal Häusermann [et al.]. Lausanne: Art & fiction, 2011",
+		"TITEL" : "Territoires",
+		"JAHR" : "2011",
+		"SIGNATUR" : "A1-14933",
+		"NEBIS_URL" : ""
+	},
+	{
+		"ZITAT" : "Samuel Herzog: «Eleganz für arme Poeten». In: <I>Neue Zürcher Zeitung<I>, 13.9.2002, S. 62",
+		"TITEL" : "Eleganz für arme Poeten",
+		"JAHR" : "2002",
+		"SIGNATUR" : "",
+		"NEBIS_URL" : ""
+	}
+]
