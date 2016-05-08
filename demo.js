@@ -9,7 +9,7 @@ $(function(){
 
   // get exported json from cytoscape desktop via ajax
   var graphP = $.ajax({
-    url: 'https://cdn.rawgit.com/maxkfranz/3d4d3c8eb808bd95bae7/raw', // wine-and-cheese.json
+    url: 'example.json', // wine-and-cheese.json
     type: 'GET',
     dataType: 'json'
   });
