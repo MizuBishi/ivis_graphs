@@ -1,0 +1,266 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.2.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "selected" : true,
+    "__Annotations" : [ ],
+    "shared_name" : "GerdaSteinerNetwork",
+    "SUID" : 52,
+    "name" : "GerdaSteinerNetwork"
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "111",
+        "NodeType" : "Ausstellung",
+        "ZITAT"
+        "selected" : false,
+        "SUID" : 111,
+        "name" : "Gerda Steiner. Wasser, Milch und Vodka",
+        "ZITAT" : "<I>Landschaften. Gerda Steiner<I>. Kunsthalle Basel, 1998. Katalogredaktion: Madeleine Schuppli und Gerda Steiner. Basel, 1998 (Kunsthalle Basel 16)",
+        "AUSST_TITEL" : "Gerda Steiner. Wasser, Milch und Vodka",
+        "AUSST_INSTITUT" : "Kunsthalle Basel",
+        "AUSST_INST_URL" : "www.kunsthallebasel.ch",
+        "AUSST_ORT" : "Basel",
+        "JAHR" : 1998,
+        "SIGNATUR" : "A2-16950",
+        "NEBIS_URL" : ""
+      },
+      "position" : {
+        "x" : 6593.2421875,
+        "y" : 4576.21826171875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "NodeType" : "Ausstellung",
+        "selected" : false,
+        "SUID" : 112,
+        "name" : "Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte",
+        "ZITAT" : "<I>Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte<I>. Winterthur, Kunstkasten, 1999-2000.",
+        "AUSST_TITEL" : "Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte",
+        "AUSST_INSTITUT" : "Kunstkasten",
+        "AUSST_INST_URL" : "www.kunstkasten.ch",
+        "AUSST_ORT" : "Winterthur",
+        "JAHR" : 1999,
+        "SIGNATUR" : "",
+        "NEBIS_URL" : ""
+      },
+      "position" : {
+        "x" : 6593.2421875,
+        "y" : 2841.462890625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "NodeType" : "Ausstellung",
+        "selected" : false,
+        "SUID" : 113,
+        "name" : "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
+        "ZITAT" : "<I>Jörg Lenzlinger & Gerda Steiner - «Lift-up»<I>. Genève, Attitudes, 2000. Genève: Attitudes + CH Creatio Helvetica, 2000 [Poster 90 x 128 cm]",
+        "AUSST_TITEL" : "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
+        "AUSST_INSTITUT" : "Attitudes",
+        "AUSST_INST_URL" : "www.attitudes.ch",
+        "AUSST_ORT" : "Genève",
+        "JAHR" : 2000,
+        "SIGNATUR" : "A3-16869",
+        "NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004168441"
+      },
+      "position" : {
+        "x" : 6593.2421875,
+        "y" : 4097.6650390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "311",
+        "NodeType" : "Werk",
+        "selected" : false,
+        "SUID" : 311,
+        "name" : "Johnny Rocket",
+        "SIK_INVNR" : "86509",
+        "OBJEKTBEZ" : "Objektkunst",
+        "TITEL" : "Johnny Rocket",
+        "JAHR" : "1997",
+        "MATERIAL" : "Objektkunst",
+        "BEMERKUNG" : "",
+        "BILDNAME" : "86509D1.jpg",
+        "ABB_LEGENDE" : "Gerda Steiner / Jörg Lenzlinger, <I>Johnny Rocket<I>, 1997, Objektkunst"
+      },
+      "position" : {
+        "x" : 1391.108154296875,
+        "y" : 3739.207275390625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "312",
+        "NodeType" : "Werk",
+        "selected" : false,
+        "SUID" : 312,
+        "name" : "Kristallgewächs",
+        "SIK_INVNR" : "86512",
+        "OBJEKTBEZ" : "Objektkunst",
+        "TITEL" : "Kristallgewächs",
+        "JAHR" : "2000",
+        "MATERIAL" : "Objekt unter anderem aus mit Pigmenten und wachstumsförderndem Dünger angereicherte Salzlösungen",
+        "BEMERKUNG" : "",
+        "BILDNAME" : "86512D1.jpg",
+        "ABB_LEGENDE" : "Gerda Steiner / Jörg Lenzlinger, <I>Kristallgewächs<I>, 2000, Objekt unter anderem aus mit Pigmenten und wachstumsförderndem Dünger angereicherte Salzlösungen"
+      },
+      "position" : {
+        "x" : 1391.108154296875,
+        "y" : 2813.124267578125
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "313",
+        "NodeType" : "Werk",
+        "selected" : false,
+        "SUID" : 313,
+        "name" : "Nature Park Montréal",
+        "SIK_INVNR" : "86511",
+        "OBJEKTBEZ" : "Installation",
+        "TITEL" : "Nature Park Montréal",
+        "JAHR" : "2001",
+        "MATERIAL" : "diverse Techniken",
+        "BEMERKUNG" : "Installation im Centre d'exposition d'art contemporain CIRCA, Montréal, 2001",
+        "BILDNAME" : "86511D1.jpg",
+        "ABB_LEGENDE" : "Gerda Steiner / Jörg Lenzlinger, <I>Nature Park Montréal<I>, 2001, diverse Techniken"
+      },
+      "position" : {
+        "x" : 1391.108154296875,
+        "y" : 2325.71240234375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "511",
+        "NodeType" : "Literatur",
+        "selected" : false,
+        "SUID" : 511,
+        "name" : "Landschaften. Gerda Steiner",
+        "ZITAT" : "<I>Landschaften. Gerda Steiner<I>. Kunsthalle Basel, 1998. Katalogredaktion: Madeleine Schuppli und Gerda Steiner. Basel, 1998 (Kunsthalle Basel 16)",
+        "TITEL" : "Landschaften. Gerda Steiner",
+        "JAHR" : "1998",
+        "SIGNATUR" : "A2-16950",
+        "NEBIS_URL" : ""
+      },
+      "position" : {
+        "x" : 1628.0069580078125,
+        "y" : 4932.68505859375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "512",
+        "NodeType" : "Literatur",
+        "selected" : false,
+        "SUID" : 512,
+        "name" : "Gerda Steiner und Jürg Lenzlinger in der Kunsthalle",
+        "ZITAT" : "«Gerda Steiner und Jürg Lenzlinger in der Kunsthalle». In: <I>Kunst-Bulletin<I>, 2000, 1/2, S. 52",
+        "TITEL" : "Gerda Steiner und Jürg Lenzlinger in der Kunsthalle",
+        "JAHR" : "2000",
+        "SIGNATUR" : "",
+        "NEBIS_URL" : ""
+      },
+      "position" : {
+        "x" : 1628.0069580078125,
+        "y" : 4932.68505859375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "513",
+        "NodeType" : "Literatur",
+        "selected" : false,
+        "SUID" : 513,
+        "name" : "«Gärtnerei» in der Kunsthalle Winterthur",
+        "ZITAT" : "lin: ««Gärtnerei» in der Kunsthalle Winterthur». In: <I>Neue Zürcher Zeitung<I>, 5.1.2000, S. 36",
+        "TITEL" : "«Gärtnerei» in der Kunsthalle Winterthur",
+        "JAHR" : "2000",
+        "SIGNATUR" : "",
+        "NEBIS_URL" : ""
+      },
+      "position" : {
+        "x" : 1628.0069580078125,
+        "y" : 4932.68505859375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "710",
+        "NodeType" : "Jahr",
+        "selected" : false,
+        "SUID" : 710,
+        "name" : "1997",
+        "JAHR" : 1997
+      },
+      "position" : {
+        "x" : 4491.9853515625,
+        "y" : 4520.1904296875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "711",
+        "NodeType" : "Jahr",
+        "selected" : false,
+        "SUID" : 711,
+        "name" : "1998",
+        "JAHR" : 1998
+      },
+      "position" : {
+        "x" : 4081.0909423828125,
+        "y" : 3318.9521484375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "712",
+        "NodeType" : "Jahr",
+        "selected" : false,
+        "SUID" : 712,
+        "name" : "1999",
+        "JAHR" : 1999
+      },
+      "position" : {
+        "x" : 3968.75146484375,
+        "y" : 3223.787109375
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "713",
+        "NodeType" : "Jahr",
+        "selected" : false,
+        "SUID" : 713,
+        "name" : "2000",
+        "JAHR" : 2000
+      },
+      "position" : {
+        "x" : 4239.226806640625,
+        "y" : 3420.3961181640625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "714",
+        "NodeType" : "Jahr",
+        "selected" : false,
+        "SUID" : 714,
+        "name" : "2001",
+        "JAHR" : 2001
+      },
+      "position" : {
+        "x" : 4194.798095703125,
+        "y" : 4336.6953125
+      },
+      "selected" : false
+    } ]
+  }
+}
