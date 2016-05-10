@@ -37,28 +37,28 @@ edge[interaction = "ww"] {
 
 node[NodeType = "Werk"],
 node[NodeType = "WerkTyp"] {
-    background-color: #FACD37;
-    text-outline-color: #FACD37;
+    background-color: #b8b8b8;
+    text-outline-color: #b8b8b8;
     width: mapData(Quality, 70, 100, 20, 50);
     height: mapData(Quality, 70, 100, 20, 50);
 }
 
 node[NodeType = "Ausstellung"] {
-    background-color: white;
-    text-outline-color: white;
+    background-color: #333333;
+    text-outline-color: #333333;
 }
 
 edge[interaction = "wa"] {
-    line-color: white;
+    line-color: #333333;
 }
 
 node[NodeType = "Literatur"] {
-    background-color: #A4EB34;
-    text-outline-color: #A4EB34;
+    background-color: #e31781;
+    text-outline-color: #e31781;
 }
 
 edge[interaction = "wl"] {
-    line-color: #A4EB34;
+    line-color: #e31781;
 }
 
 node.highlighted {
