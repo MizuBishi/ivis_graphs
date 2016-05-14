@@ -12,11 +12,9 @@
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "111",
+        "id" : "a1998",
         "NodeType" : "Ausstellung",
-        "ZITAT"
         "selected" : false,
-        "SUID" : 111,
         "name" : "Gerda Steiner. Wasser, Milch und Vodka",
         "ZITAT" : "<I>Landschaften. Gerda Steiner<I>. Kunsthalle Basel, 1998. Katalogredaktion: Madeleine Schuppli und Gerda Steiner. Basel, 1998 (Kunsthalle Basel 16)",
         "AUSST_TITEL" : "Gerda Steiner. Wasser, Milch und Vodka",
@@ -28,16 +26,15 @@
         "NEBIS_URL" : ""
       },
       "position" : {
-        "x" : 6593.2421875,
-        "y" : 4576.21826171875
+        "x" : 1000,
+        "y" : 1200
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "112",
+        "id" : "a1999",
         "NodeType" : "Ausstellung",
         "selected" : false,
-        "SUID" : 112,
         "name" : "Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte",
         "ZITAT" : "<I>Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte<I>. Winterthur, Kunstkasten, 1999-2000.",
         "AUSST_TITEL" : "Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte",
@@ -49,16 +46,15 @@
         "NEBIS_URL" : ""
       },
       "position" : {
-        "x" : 6593.2421875,
-        "y" : 2841.462890625
+        "x" : 1000,
+        "y" : 1400
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "113",
+        "id" : "a2000",
         "NodeType" : "Ausstellung",
         "selected" : false,
-        "SUID" : 113,
         "name" : "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
         "ZITAT" : "<I>Jörg Lenzlinger & Gerda Steiner - «Lift-up»<I>. Genève, Attitudes, 2000. Genève: Attitudes + CH Creatio Helvetica, 2000 [Poster 90 x 128 cm]",
         "AUSST_TITEL" : "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
@@ -70,16 +66,15 @@
         "NEBIS_URL" : "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004168441"
       },
       "position" : {
-        "x" : 6593.2421875,
-        "y" : 4097.6650390625
+        "x" : 1000,
+        "y" : 1600
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "311",
+        "id" : "w1997",
         "NodeType" : "Werk",
         "selected" : false,
-        "SUID" : 311,
         "name" : "Johnny Rocket",
         "SIK_INVNR" : "86509",
         "OBJEKTBEZ" : "Objektkunst",
@@ -91,16 +86,15 @@
         "ABB_LEGENDE" : "Gerda Steiner / Jörg Lenzlinger, <I>Johnny Rocket<I>, 1997, Objektkunst"
       },
       "position" : {
-        "x" : 1391.108154296875,
-        "y" : 3739.207275390625
+        "x" : 1200,
+        "y" : 1800
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "312",
+        "id" : "w2000",
         "NodeType" : "Werk",
         "selected" : false,
-        "SUID" : 312,
         "name" : "Kristallgewächs",
         "SIK_INVNR" : "86512",
         "OBJEKTBEZ" : "Objektkunst",
@@ -112,16 +106,15 @@
         "ABB_LEGENDE" : "Gerda Steiner / Jörg Lenzlinger, <I>Kristallgewächs<I>, 2000, Objekt unter anderem aus mit Pigmenten und wachstumsförderndem Dünger angereicherte Salzlösungen"
       },
       "position" : {
-        "x" : 1391.108154296875,
-        "y" : 2813.124267578125
+        "x" : 1400,
+        "y" : 1800
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "313",
+        "id" : "w2001",
         "NodeType" : "Werk",
         "selected" : false,
-        "SUID" : 313,
         "name" : "Nature Park Montréal",
         "SIK_INVNR" : "86511",
         "OBJEKTBEZ" : "Installation",
@@ -133,16 +126,15 @@
         "ABB_LEGENDE" : "Gerda Steiner / Jörg Lenzlinger, <I>Nature Park Montréal<I>, 2001, diverse Techniken"
       },
       "position" : {
-        "x" : 1391.108154296875,
-        "y" : 2325.71240234375
+        "x" : 1600,
+        "y" : 1800
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "511",
+        "id" : "l1998",
         "NodeType" : "Literatur",
         "selected" : false,
-        "SUID" : 511,
         "name" : "Landschaften. Gerda Steiner",
         "ZITAT" : "<I>Landschaften. Gerda Steiner<I>. Kunsthalle Basel, 1998. Katalogredaktion: Madeleine Schuppli und Gerda Steiner. Basel, 1998 (Kunsthalle Basel 16)",
         "TITEL" : "Landschaften. Gerda Steiner",
@@ -151,16 +143,15 @@
         "NEBIS_URL" : ""
       },
       "position" : {
-        "x" : 1628.0069580078125,
-        "y" : 4932.68505859375
+        "x" : 2100,
+        "y" : 1200
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "512",
+        "id" : "l2000",
         "NodeType" : "Literatur",
         "selected" : false,
-        "SUID" : 512,
         "name" : "Gerda Steiner und Jürg Lenzlinger in der Kunsthalle",
         "ZITAT" : "«Gerda Steiner und Jürg Lenzlinger in der Kunsthalle». In: <I>Kunst-Bulletin<I>, 2000, 1/2, S. 52",
         "TITEL" : "Gerda Steiner und Jürg Lenzlinger in der Kunsthalle",
@@ -169,13 +160,13 @@
         "NEBIS_URL" : ""
       },
       "position" : {
-        "x" : 1628.0069580078125,
-        "y" : 4932.68505859375
+        "x" : 2100,
+        "y" : 1400
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "513",
+        "id" : "l2000",
         "NodeType" : "Literatur",
         "selected" : false,
         "SUID" : 513,
@@ -187,78 +178,134 @@
         "NEBIS_URL" : ""
       },
       "position" : {
-        "x" : 1628.0069580078125,
-        "y" : 4932.68505859375
+        "x" : 2100,
+        "y" : 1600
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "710",
+        "id" : "j1997",
         "NodeType" : "Jahr",
         "selected" : false,
-        "SUID" : 710,
         "name" : "1997",
         "JAHR" : 1997
       },
       "position" : {
-        "x" : 4491.9853515625,
-        "y" : 4520.1904296875
+        "x" : 1240,
+        "y" : 1220
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "711",
+        "id" : "j1998",
         "NodeType" : "Jahr",
         "selected" : false,
-        "SUID" : 711,
         "name" : "1998",
         "JAHR" : 1998
       },
       "position" : {
-        "x" : 4081.0909423828125,
-        "y" : 3318.9521484375
+        "x" : 1340,
+        "y" : 1330
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "712",
+        "id" : "j1999",
         "NodeType" : "Jahr",
         "selected" : false,
-        "SUID" : 712,
         "name" : "1999",
         "JAHR" : 1999
       },
       "position" : {
-        "x" : 3968.75146484375,
-        "y" : 3223.787109375
+        "x" : 1440,
+        "y" : 1440
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "713",
+        "id" : "j2000",
         "NodeType" : "Jahr",
         "selected" : false,
-        "SUID" : 713,
         "name" : "2000",
         "JAHR" : 2000
       },
       "position" : {
-        "x" : 4239.226806640625,
-        "y" : 3420.3961181640625
+        "x" : 1540,
+        "y" : 1550
       },
       "selected" : false
     }, {
       "data" : {
-        "id" : "714",
+        "id" : "j2001",
         "NodeType" : "Jahr",
         "selected" : false,
-        "SUID" : 714,
         "name" : "2001",
         "JAHR" : 2001
       },
       "position" : {
-        "x" : 4194.798095703125,
-        "y" : 4336.6953125
+        "x" : 1640,
+        "y" : 1660
+      },
+      "selected" : false
+    }],
+    "edges" : [ {
+      "data" : {
+        "id" : "1",
+        "source" : "w1997",
+        "target" : "j1997",
+        "selected" : false,
+        "interaction" : "cc",
+        "shared_interaction" : "cc"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "2",
+        "source" : "a1998",
+        "target" : "j1998",
+        "selected" : false,
+        "interaction" : "wa",
+        "shared_interaction" : "cc"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3",
+        "source" : "a1999",
+        "target" : "j1999",
+        "selected" : false,
+        "interaction" : "wa",
+        "shared_interaction" : "cr"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4",
+        "source" : "a2000",
+        "target" : "j2000",
+        "selected" : false,
+        "interaction" : "wa",
+        "shared_interaction" : "cc"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "5",
+        "source" : "w2000",
+        "target" : "j2000",
+        "selected" : false,
+        "interaction" : "wl",
+        "shared_interaction" : "cc"
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "6",
+        "source" : "l2000",
+        "target" : "j2000",
+        "selected" : false,
+        "interaction" : "wl",
+        "shared_interaction" : "cc"
       },
       "selected" : false
     } ]

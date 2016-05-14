@@ -13,10 +13,11 @@
     "nodes" : [
       {
         "data": {
+          "id" : "101",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>«Trink, Oh Herz, vom Überfluss der Zeit!»<I>. Kunsthalle Winterthur, 1999-2000.",
-          "AUSST_TITEL": "«Trink, Oh Herz, vom Überfluss der Zeit!»",
+          "name": "«Trink, Oh Herz, vom Überfluss der Zeit!»",
           "AUSST_INSTITUT": "Kunsthalle Winterthur",
           "AUSST_INST_URL": "www.kunsthallewinterthur.ch",
           "AUSST_ORT": "Winterthur",
@@ -25,17 +26,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 20
+          "x": 1000,
+          "y": 1000
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "102",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte<I>. Winterthur, Kunstkasten, 1999-2000.",
-          "AUSST_TITEL": "Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte",
+          "name": "Arbeit ist die Würze des Lebens. Wie Ottilia Schnack die Sülze in Australien einführte",
           "AUSST_INSTITUT": "Kunstkasten",
           "AUSST_INST_URL": "www.kunstkasten.ch",
           "AUSST_ORT": "Winterthur",
@@ -44,17 +46,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 40
+          "x": 1000,
+          "y": 1050
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "103",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Landschaften. Gerda Steiner<I>. Kunsthalle Basel, 1998. Katalogredaktion: Madeleine Schuppli und Gerda Steiner. Basel, 1998 (Kunsthalle Basel 16)",
-          "AUSST_TITEL": "Gerda Steiner. Wasser, Milch und Vodka",
+          "name": "Gerda Steiner. Wasser, Milch und Vodka",
           "AUSST_INSTITUT": "Kunsthalle Basel",
           "AUSST_INST_URL": "www.kunsthallebasel.ch",
           "AUSST_ORT": "Basel",
@@ -63,17 +66,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 60
+          "x": 1000,
+          "y": 1100
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "104",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Jörg Lenzlinger & Gerda Steiner - «Lift-up»<I>. Genève, Attitudes, 2000. Genève: Attitudes + CH Creatio Helvetica, 2000 [Poster 90 x 128 cm]",
-          "AUSST_TITEL": "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
+          "name": "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
           "AUSST_INSTITUT": "Attitudes",
           "AUSST_INST_URL": "www.attitudes.ch",
           "AUSST_ORT": "Genève",
@@ -82,17 +86,18 @@
           "NEBIS_URL": "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004168441"
         },
         "position": {
-          "x": 10,
-          "y": 80
+          "x": 1000,
+          "y": 1150
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "105",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Moltitudini - Solitudini<I>. Bozen, Museion. Museum für moderne und zeitgenössische Kunst, 2003. Ein Projekt von Sergio Risaliti; [Texte:] Alois Lagader [et al.]; in Zusammenarbeit mit AR/GE Kunst - Galerie Museum Bozen/Galleria Museo Bolzano. Bozen, 2003",
-          "AUSST_TITEL": "Moltitudini - Solitudini",
+          "name": "Moltitudini - Solitudini",
           "AUSST_INSTITUT": "Museion. Museum für moderne und zeitgenössische Kunst",
           "AUSST_INST_URL": "www.museion.it",
           "AUSST_ORT": "Bozen",
@@ -101,17 +106,18 @@
           "NEBIS_URL": "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004894751"
         },
         "position": {
-          "x": 10,
-          "y": 100
+          "x": 1000,
+          "y": 1200
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "106",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Les Envahisseurs<I>. Genève, Conservatoire et Jardin Botaniques, 2004.",
-          "AUSST_TITEL": "Les Envahisseurs",
+          "name": "Les Envahisseurs",
           "AUSST_INSTITUT": "",
           "AUSST_INST_URL": "",
           "AUSST_ORT": "Genève",
@@ -120,17 +126,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 120
+          "x": 1000,
+          "y": 1250
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "107",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>50. Esposizione Internazionale d'Arte. Sogni e Conflitti - La dittatura dello spettatore<I>. Biennale di Venezia, 2003.",
-          "AUSST_TITEL": "50. Esposizione Internazionale d'Arte. Sogni e Conflitti - La dittatura dello spettatore",
+          "name": "50. Esposizione Internazionale d'Arte. Sogni e Conflitti - La dittatura dello spettatore",
           "AUSST_INSTITUT": "Biennale di Venezia",
           "AUSST_INST_URL": "www.labiennale.org",
           "AUSST_ORT": "Venezia",
@@ -139,17 +146,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 140
+          "x": 1000,
+          "y": 1300
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "108",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Gerda Steiner & Jörg Lenzlinger. Zimmerpflanzen und Schweinefutter<I>. Basel, Galerie Stampa, 2005.",
-          "AUSST_TITEL": "Gerda Steiner & Jörg Lenzlinger. Zimmerpflanzen und Schweinefutter",
+          "name": "Gerda Steiner & Jörg Lenzlinger. Zimmerpflanzen und Schweinefutter",
           "AUSST_INSTITUT": "Galerie Stampa",
           "AUSST_INST_URL": "www.stampa-galerie.ch",
           "AUSST_ORT": "Basel",
@@ -158,17 +166,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 160
+          "x": 1000,
+          "y": 1350
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "109",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Jörg Lenzlinger, Gerda Steiner<I>. Paris, La Maison rouge, 2005.",
-          "AUSST_TITEL": "Jörg Lenzlinger, Gerda Steiner",
+          "name": "Jörg Lenzlinger, Gerda Steiner",
           "AUSST_INSTITUT": "La Maison rouge",
           "AUSST_INST_URL": "",
           "AUSST_ORT": "Paris",
@@ -177,17 +186,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 180
+          "x": 1000,
+          "y": 1400
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "110",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Gerda Steiner & Jörg Lenzlinger. Seelenwärmer. Installation in der Stiftsbibliothek St.Gallen<I>. Stiftsbibliothek St. Gallen, 2005-06. Hrsg.: Silvio Frigg [Vorwort von Haruki Murakami]. St. Gallen: Verlag am Klosterhof, 2005",
-          "AUSST_TITEL": "Gerda Steiner & Jörg Lenzlinger. Seelenwärmer. Installation in der Stiftsbibliothek St.Gallen",
+          "name": "Gerda Steiner & Jörg Lenzlinger. Seelenwärmer. Installation in der Stiftsbibliothek St.Gallen",
           "AUSST_INSTITUT": "",
           "AUSST_INST_URL": "www.stiftsbibliothek.ch",
           "AUSST_ORT": "",
@@ -196,17 +206,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 200
+          "x": 1000,
+          "y": 1450
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "111",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Gerda Steiner & Jörg Lenzlinger. Grottes sauvages sur forêt cérébrale civilisé<I>. Paris, Palais de Tokyo, 2006.",
-          "AUSST_TITEL": "Gerda Steiner & Jörg Lenzlinger. Grottes sauvages sur forêt cérébrale civilisé",
+          "name": "Gerda Steiner & Jörg Lenzlinger. Grottes sauvages sur forêt cérébrale civilisé",
           "AUSST_INSTITUT": "Palais de Tokyo",
           "AUSST_INST_URL": "www.palaisdetokyo.com",
           "AUSST_ORT": "Paris",
@@ -215,17 +226,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 220
+          "x": 1000,
+          "y": 1500
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "112",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Visioni del paradiso<I>. Istituto Svizzero di Roma, 2006.",
-          "AUSST_TITEL": "Visioni del paradiso",
+          "name": "Visioni del paradiso",
           "AUSST_INSTITUT": "Istituto Svizzero di Roma",
           "AUSST_INST_URL": "www.istitutosvizzero.it",
           "AUSST_ORT": "Roma",
@@ -234,17 +246,18 @@
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 10,
-          "y": 240
+          "x": 1000,
+          "y": 1550
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "113",
           "NodeType" : "Ausstellung",
           "selected" : false,
           "ZITAT": "<I>Late Shift. Kunst als symbolisches Terrain zwischen Schichtarbeit und Fitnesspark<I>. Zürich, Puls 5, 2005. Hrsg.: Claudia Spinelli und Gianni Jetzer. Zürich: JRP/Ringier, 2006",
-          "AUSST_TITEL": "Late Shift. Kunst als symbolisches Terrain zwischen Schichtarbeit und Fitnesspark",
+          "name": "Late Shift. Kunst als symbolisches Terrain zwischen Schichtarbeit und Fitnesspark",
           "AUSST_INSTITUT": "Puls 5",
           "AUSST_INST_URL": "",
           "AUSST_ORT": "Zürich",
@@ -253,18 +266,19 @@
           "NEBIS_URL": "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=005216564"
         },
         "position": {
-          "x": 10,
-          "y": 260
+          "x": 1000,
+          "y": 1600
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "301",
           "NodeType" : "Werk",
           "selected" : false,
           "SIK_INVNR": "86510",
           "OBJEKTBEZ": "Installation",
-          "TITEL": "Osmotisches Gewächs",
+          "name": "Osmotisches Gewächs",
           "JAHR": "",
           "MATERIAL": "diverse Techniken",
           "BEMERKUNG": "",
@@ -272,18 +286,19 @@
           "ABB_LEGENDE": "Gerda Steiner / Jörg Lenzlinger, <I>Osmotisches Gewächs<I>, diverse Techniken"
         },
         "position": {
-          "x": 20,
-          "y": 10
+          "x": 1200,
+          "y": 3000
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "302",
           "NodeType" : "Werk",
           "selected" : false,
           "SIK_INVNR": "86511",
           "OBJEKTBEZ": "Installation",
-          "TITEL": "Nature Park Montréal",
+          "name": "Nature Park Montréal",
           "JAHR": "2001",
           "MATERIAL": "diverse Techniken",
           "BEMERKUNG": "Installation im Centre d'exposition d'art contemporain CIRCA, Montréal, 2001",
@@ -291,18 +306,19 @@
           "ABB_LEGENDE": "Gerda Steiner / Jörg Lenzlinger, <I>Nature Park Montréal<I>, 2001, diverse Techniken"
         },
         "position": {
-          "x": 40,
-          "y": 10
+          "x": 1250,
+          "y": 3000
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "303",
           "NodeType" : "Werk",
           "selected" : false,
           "SIK_INVNR": "86493",
           "OBJEKTBEZ": "Installation",
-          "TITEL": "Les envahisseurs",
+          "name": "Les envahisseurs",
           "JAHR": "2004",
           "MATERIAL": "Installation mit Pflanzen, Plastikpflanzen, Koffern, Schuhen, Ästen und weiteren Elementen in einem Container",
           "BEMERKUNG": "Installation vor dem Jardin botanique & musée d'histoire des sciences, Genf, 2004",
@@ -310,18 +326,19 @@
           "ABB_LEGENDE": "Gerda Steiner / Jörg Lenzlinger, <I>Les envahisseurs<I>, 2004, Installation mit Pflanzen, Plastikpflanzen, Koffern, Schuhen, Ästen und weiteren Elementen in einem Container"
         },
         "position": {
-          "x": 60,
-          "y": 10
+          "x": 1300,
+          "y": 3000
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "304",
           "NodeType" : "Werk",
           "selected" : false,
           "SIK_INVNR": "86501",
           "OBJEKTBEZ": "Installation",
-          "TITEL": "s'Oberstübli",
+          "name": "s'Oberstübli",
           "JAHR": "2001",
           "MATERIAL": "diverse Techniken",
           "BEMERKUNG": "Rauminstallation im Kunstraum Walcheturm, Zürich, 21.11.-19.12.2001",
@@ -329,18 +346,19 @@
           "ABB_LEGENDE": "Gerda Steiner / Jörg Lenzlinger, <I>s'Oberstübli<I>, 2001, diverse Techniken"
         },
         "position": {
-          "x": 80,
-          "y": 10
+          "x": 1300,
+          "y": 3000
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "305",
           "NodeType" : "Werk",
           "selected" : false,
           "SIK_INVNR": "86503",
           "OBJEKTBEZ": "Installation",
-          "TITEL": "Cómo llegó la morsa a Madrid",
+          "name": "Cómo llegó la morsa a Madrid",
           "JAHR": "2003",
           "MATERIAL": "diverse Techniken",
           "BEMERKUNG": "Installation in der Casa Encendida, Madrid",
@@ -348,122 +366,310 @@
           "ABB_LEGENDE": "Gerda Steiner / Jörg Lenzlinger, <I>Cómo llegó la morsa a Madrid<I>, 2003, diverse Techniken"
         },
         "position": {
-          "x": 100,
-          "y": 10
+          "x": 1350,
+          "y": 3000
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "501",
           "NodeType" : "Literatur",
           "selected" : false,
           "ZITAT": "<I>Landschaften. Gerda Steiner<I>. Kunsthalle Basel, 1998. Katalogredaktion: Madeleine Schuppli und Gerda Steiner. Basel, 1998 (Kunsthalle Basel 16)",
-          "TITEL": "Landschaften. Gerda Steiner",
+          "name": "Landschaften. Gerda Steiner",
           "JAHR": "1998",
           "SIGNATUR": "A2-16950",
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 400,
-          "y": 20
+          "x": 4000,
+          "y": 1000
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "502",
           "NodeType" : "Literatur",
           "selected" : false,
           "ZITAT": "«Gerda Steiner und Jürg Lenzlinger in der Kunsthalle». In: <I>Kunst-Bulletin<I>, 2000, 1/2, S. 52",
-          "TITEL": "Gerda Steiner und Jürg Lenzlinger in der Kunsthalle",
+          "name": "Gerda Steiner und Jürg Lenzlinger in der Kunsthalle",
           "JAHR": "2000",
           "SIGNATUR": "",
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 400,
-          "y": 40
+          "x": 4000,
+          "y": 1050
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "503",
           "NodeType" : "Literatur",
           "selected" : false,
           "ZITAT": "lin: ««Gärtnerei» in der Kunsthalle Winterthur». In: <I>Neue Zürcher Zeitung<I>, 5.1.2000, S. 36",
-          "TITEL": "«Gärtnerei» in der Kunsthalle Winterthur",
+          "name": "«Gärtnerei» in der Kunsthalle Winterthur",
           "JAHR": "2000",
           "SIGNATUR": "",
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 400,
-          "y": 60
+          "x": 4000,
+          "y": 1100
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "504",
           "NodeType" : "Literatur",
           "selected" : false,
           "ZITAT": "<I>Jörg Lenzlinger & Gerda Steiner - «Lift-up»<I>. Genève, Attitudes, 2000. Genève: Attitudes + CH Creatio Helvetica, 2000 [Poster 90 x 128 cm]",
-          "TITEL": "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
+          "name": "Jörg Lenzlinger & Gerda Steiner - «Lift-up»",
           "JAHR": "2000",
           "SIGNATUR": "A3-16869",
           "NEBIS_URL": "http://opac.nebis.ch/F?func=direct&current_base=NEBIS&con_lng=GER&format=999&doc_number=004168441"
         },
         "position": {
-          "x": 400,
-          "y": 80
+          "x": 4000,
+          "y": 1150
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "505",
           "NodeType" : "Literatur",
           "selected" : false,
           "ZITAT": "Tobler, Konrad: «Ein Ort kämpft für die Kunst». In: <I>Berner Zeitung<I>, 26.5.2000, S. 47",
-          "TITEL": "Ein Ort kämpft für die Kunst",
+          "name": "Ein Ort kämpft für die Kunst",
           "JAHR": "2000",
           "SIGNATUR": "",
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 400,
-          "y": 100
+          "x": 4000,
+          "y": 1200
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "506",
           "NodeType" : "Literatur",
           "selected" : false,
           "ZITAT": "Yvonne Barmettler: <I>Träge Eiskörper und filigrane Nervkristalle. Installative Arbeiten von Gerda Steiner und Jörg Lenzlinger in der Galerie Stampa<I>, S. 15",
-          "TITEL": "Träge Eiskörper und filigrane Nervkristalle. Installative Arbeiten von Gerda Steiner und Jörg Lenzlinger in der Galerie Stampa",
+          "name": "Träge Eiskörper und filigrane Nervkristalle. Installative Arbeiten von Gerda Steiner und Jörg Lenzlinger in der Galerie Stampa",
           "JAHR": "2001",
           "SIGNATUR": "",
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 400,
-          "y": 120
+          "x": 4000,
+          "y": 1250
         },
         "selected": false
       },
       {
         "data": {
+          "id" : "507",
           "NodeType" : "Literatur",
           "selected" : false,
           "ZITAT": "Claudia Spinelli: «\"doyouwanneseemyblueberrys?\". Mit Gerda Steiner und Jörg Lenzlinger an der Kristallquelle». In: <I>Kunst-Bulletin<I>, 2001, 4, S. 22-27",
-          "TITEL": "\"doyouwanneseemyblueberrys?\". Mit Gerda Steiner und Jörg Lenzlinger an der Kristallquelle",
+          "name": "\"doyouwanneseemyblueberrys?\". Mit Gerda Steiner und Jörg Lenzlinger an der Kristallquelle",
           "JAHR": "2001",
           "SIGNATUR": "",
           "NEBIS_URL": ""
         },
         "position": {
-          "x": 400,
-          "y": 140
+          "x": 4000,
+          "y": 1300
         },
         "selected": false
+      },
+      {
+        "data" : {
+          "id" : "701",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "1997",
+          "JAHR" : 1997
+        },
+        "position" : {
+          "x" : 2500,
+          "y" : 1200
+        },
+        "selected" : false
+      },
+      {
+        "data" : {
+          "id" : "702",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "1998",
+          "JAHR" : 1998
+        },
+        "position" : {
+          "x" : 2500,
+          "y" : 1300
+        },
+        "selected" : false
+      },
+      {
+        "data" : {
+          "id" : "703",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "1999",
+          "JAHR" : 1999
+        },
+        "position" : {
+          "x" : 2500,
+          "y" : 1400
+        },
+        "selected" : false
+      },
+      {
+        "data" : {
+          "id" : "704",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "2000",
+          "JAHR" : 2000
+        },
+        "position" : {
+          "x" : 2500,
+          "y" : 1500
+        },
+        "selected" : false
+      },
+      {
+        "data" : {
+          "id" : "705",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "2001",
+          "JAHR" : 2001
+        },
+        "position" : {
+          "x" : 2500,
+          "y" : 1600
+        },
+        "selected" : false
+      },
+      {
+        "data" : {
+          "id" : "706",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "2002",
+          "JAHR" : 2002
+        },
+        "position" : {
+          "x" : 2500,
+          "y" : 1700
+        },
+        "selected" : false
+      },
+      {
+        "data" : {
+          "id" : "707",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "2003",
+          "JAHR" : 2003
+        },
+        "position" : {
+          "x" : 2500,
+          "y" : 1800
+        },
+        "selected" : false
+      },
+      {
+        "data" : {
+          "id" : "708",
+          "NodeType" : "Jahr",
+          "selected" : false,
+          "name" : "2004",
+          "JAHR" : 2004
+        },
+        "position" : {
+          "x" : 25000,
+          "y" : 1900
+        },
+        "selected" : false
+      }
+    ],
+    "edges" : [
+      {
+        "data" : {
+          "id" : "1",
+          "source" : "313",
+          "target" : "714",
+          "selected" : false,
+          "SUID" : 1763,
+          "interaction" : "cc",
+          "shared_interaction" : "cc"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "2",
+          "source" : "111",
+          "target" : "711",
+          "selected" : false,
+          "SUID" : 1762,
+          "interaction" : "wa",
+          "shared_interaction" : "cc"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "3",
+          "source" : "511",
+          "target" : "711",
+          "selected" : false,
+          "SUID" : 431,
+          "interaction" : "wa",
+          "shared_interaction" : "cr"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "4",
+          "source" : "113",
+          "target" : "713",
+          "selected" : false,
+          "SUID" : 1762,
+          "interaction" : "wa",
+          "shared_interaction" : "cc"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "5",
+          "source" : "311",
+          "target" : "710",
+          "selected" : false,
+          "SUID" : 1762,
+          "interaction" : "wl",
+          "shared_interaction" : "cc"
+        },
+        "selected" : false
+      }, {
+        "data" : {
+          "id" : "6",
+          "source" : "512",
+          "target" : "713",
+          "selected" : false,
+          "SUID" : 1762,
+          "interaction" : "wl",
+          "shared_interaction" : "cc"
+        },
+        "selected" : false
       }
     ]
   }

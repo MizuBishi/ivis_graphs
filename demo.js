@@ -9,7 +9,7 @@ $(function(){
 
   // get exported json from cytoscape desktop via ajax
   var graphP = $.ajax({
-    url: 'test.json', // wine-and-cheese.json
+    url: 'test2.json', // wine-and-cheese.json
     type: 'GET',
     dataType: 'json'
   });
@@ -116,6 +116,8 @@ $(function(){
         data.NodeTypeFormatted = 'Literatur';
       } else if( data.NodeTypeFormatted === 'Ausstellung' ){
         data.NodeTypeFormatted = 'Ausstellung';
+      } else if( data.NodeTypeFormatted === 'Werk' ){
+        data.NodeTypeFormatted = 'Werk';
       }
       
       n.data.orgPos = {
@@ -261,7 +263,7 @@ $(function(){
           n.addClass('filtered');
         };
         
-        if( type === 'Werk' ){
+        if( type === 'Jahr' ){
           
           var cType = n.data('Type');
           
@@ -283,7 +285,7 @@ $(function(){
           
           if( !white ){ filter(); }
           
-        } else if( type === 'Cider' ){
+        } else if( type === 'Werk' ){
           
           if( !cider ){ filter(); }
           
